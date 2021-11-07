@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @venizg
+- 👋 Hi, I’m George
 - 👀 I’m interested in Robotics, Simulation, Control Theory, and C++
 - 🌱 I’m currently learning how to write Clean Code
 - 💞️ I’m looking to collaborate on any project where I can improve my C++ skills
